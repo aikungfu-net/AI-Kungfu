@@ -21,16 +21,20 @@ Explore a wide range of authentic martial arts styles, from traditional Shaolin 
 Enterprise-grade video generation capabilities delivered through an accessible platform, producing high-quality animations suitable for both personal and commercial use.
 
 ## Why Choose AI Kungfu 🚀
-* Open Source: Full transparency and community-driven development
-* Cost-Effective: Runs efficiently on consumer hardware
-* Multimodal Capabilities: Advanced visual understanding and generation
-* Enterprise-Level Results: Professional quality without proprietary limitations
+* Professional Quality Results
+AI Kungfu delivers exceptional video quality through its advanced AI technology. Our system creates fluid, natural martial arts movements while perfectly preserving the subject's identity and characteristics in every frame. The result is professional-grade animation that meets the highest standards of quality.
+* Intuitive User Experience
+Creating martial arts videos has never been easier. Our platform features a streamlined interface that requires no technical expertise. Simply upload your photo, describe your desired style, and let our AI handle the rest. The entire process is designed to be accessible to everyone.
+* Versatile Style Options
+Express your creative vision through a diverse range of authentic martial arts styles. From powerful Shaolin techniques to graceful Tai Chi movements, AI Kungfu offers extensive customization options. You can specify movement speed, power level, and specific techniques to create truly personalized performances.
+* Rapid Processing
+Transform your photos into dynamic martial arts videos in minutes. Our efficient AI processing ensures quick turnaround times without compromising on quality. This makes AI Kungfu perfect for both personal projects and professional content creation needs.
 
 ## Getting Started 🎮
 * Visit [https://aikungfu.net](https://aikungfu.net)
 * Create a free account
 * Upload your first photo
-* Choose your martial arts style
+* Enter your style description
 * Generate and share your video
 
 ## Use Cases 💡
